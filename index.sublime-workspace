@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-attachment\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"BACK",
+				"background-image\tproperty"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"text-st",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"new",
+				"newCard"
+			],
+			[
+				"interes",
+				"Interests"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"p",
+				"political"
+			],
+			[
+				"get",
+				"getElementbyId"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"setA",
+				"setAspiration"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"carousel",
+				"carousel-cell"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"script",
+				"scripts"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"face",
+				"face-to-facebook"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"strok",
+				"strokeWeight"
+			],
+			[
+				"color",
+				"colorStroke1"
+			],
+			[
+				"STROK",
+				"strokecolour"
+			],
+			[
+				"offsetX",
+				"offsetX"
+			],
+			[
+				"arcsX",
+				"arcsX"
+			],
+			[
+				"arcS",
+				"arcS"
+			],
+			[
+				"stro",
+				"strokeWeight"
+			],
+			[
+				"arc",
+				"arcTransCol"
+			],
+			[
+				"arcsy",
+				"arcsy"
+			],
+			[
+				"arcSize",
+				"arcSizeY"
+			],
+			[
+				"arcSiz",
+				"arcSizeX"
+			],
+			[
+				"triy",
+				"triy1"
+			],
+			[
+				"tri",
+				"trix1"
+			],
+			[
+				"offset",
+				"offsety"
+			],
+			[
+				"offe",
+				"offsetx"
+			],
+			[
+				"po",
+				"pos2y"
+			],
+			[
+				"pos",
+				"pos2x"
+			],
+			[
+				"triangle",
+				"trianglex"
+			],
+			[
+				"bird",
+				"birdValY"
+			],
+			[
+				"bi",
+				"birdValY"
+			],
+			[
+				"asse",
+				"assembleBirds"
+			],
+			[
+				"assm",
+				"assembleWave"
+			],
+			[
+				"ori",
+				"originXExtra"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alishasmith/Documents/ixxn221_Assignment1/css/reflectionStyle.css",
+		"/Users/alishasmith/Documents/ixxn221_Assignment1/reflection.html",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/WebsiteA2/script.js",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/WebsiteA2/stylesheet.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/WebsiteA2/index.html",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/WebsiteA2/css/stylesheet.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/scripts/create.js",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/css/stylesheet.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/index.html",
+		"/Users/alishasmith/Documents/index.html",
+		"/Users/alishasmith/Downloads/Simple Address Book In Javascript/index.html",
+		"/Users/alishasmith/Downloads/Simple Address Book In Javascript/scripts/ab.js",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/css/flickity.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/scripts/flickity.pkgd.min.js",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/js/script.js",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentTwo/Prototype1/stylesheet.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentOne/WebsiteA1/archive-installation/assets/css/main.css",
+		"/Users/alishasmith/Documents/MDDN201/AssignmentOne/WebsiteA1/archive-installation/index.html",
+		"/Users/alishasmith/Documents/mddn201_sa1/index.html",
+		"/Users/alishasmith/Documents/mddn201_sa1/css/style.css",
+		"/Users/alishasmith/Downloads/MDDN-201-Example-Template-master/index.html",
+		"/Users/alishasmith/Downloads/MDDN-201-Example-Template-master/css/style.css",
+		"/Users/alishasmith/Documents/mddn201_sa1/README.md",
+		"/Users/alishasmith/Documents/GitHub/alphabet.js",
+		"/Users/alishasmith/Documents/GitHub/purview.json",
+		"/Users/alishasmith/Documents/GitHub/letters.js",
+		"/Users/alishasmith/Documents/GitHub/exhibition.js",
+		"/Users/alishasmith/Documents/GitHub/draw_letters.js",
+		"/Users/alishasmith/Documents/GitHub/README.md",
+		"/Users/alishasmith/Documents/GitHub/index.html",
+		"/Users/alishasmith/Documents/GitHub/sketch.js",
+		"/Users/alishasmith/cc2/ps1/.git/config",
+		"/Users/alishasmith/cc2/cc2/ps1/.git/config",
+		"/Users/alishasmith/cc2/pos1/.git/config",
+		"/Users/alishasmith/Documents/cc2/ps1/clock.js",
+		"/Users/alishasmith/cc2/ps1/clock_tom.js",
+		"/Users/alishasmith/Documents/MDDN242/cc2/ps1/untitled",
+		"/Users/alishasmith/Documents/MDDN242/cc2/ps1/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 30.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 401.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
